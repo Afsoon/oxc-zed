@@ -14,5 +14,5 @@
     ```bash
    cargo binstall just -y
     ```
-4. Run `just pr` to verify that the project builds and runs correctly. Run this command before creating a PR to ensure
+4. Run `just ready` to verify that the project builds and runs correctly. Run this command before creating a PR to ensure
    that CI will pass.

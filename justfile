@@ -6,8 +6,10 @@ set shell := ["bash", "-cu"]
 _default:
   @just --list -u
 
+alias r := ready
+
 # Before committing, run this to make sure everything is ready for a PR.
-pr:
+ready:
   cargo fmt
   cargo check --all-targets --all-features
   cargo test
