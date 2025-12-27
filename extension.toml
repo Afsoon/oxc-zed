@@ -1,5 +1,5 @@
 authors = ["Boshen <https://github.com/Boshen>"]
-description = "Oxc support for Zed"
+description = "Oxlint and Oxfmt support"
 id = "oxc"
 name = "Oxc"
 repository = "https://github.com/oxc-project/zed-oxc"
