@@ -17,5 +17,5 @@ This extension is available in the extensions view inside the Zed editor. Open `
 ## Configuration
 
 Configuration is done within your settings.json file. Examples can be found [here](examples) for oxfmt and oxlint.
-See https://github.com/oxc-project/oxc/tree/main/crates/oxc_language_server for the options that are supported by the
-language server.
+
+See https://github.com/oxc-project/oxc/tree/main/crates/oxc_language_server for the options that are supported by the language server.
